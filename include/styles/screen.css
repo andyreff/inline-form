@@ -1,0 +1,20 @@
+/**
+  Theme Name: Generic CSS Theme
+**/
+
+/* = Reset
+--------------------------------------------------------------------------------------------------------------------------------------*/
+
+/* = Global
+--------------------------------------------------------------------------------------------------------------------------------------*/
+
+#container {margin: 0 auto; overflow: hidden;}
+
+/* = Container
+--------------------------------------------------------------------------------------------------------------------------------------*/
+.mad-lips label {white-space: nowrap !important; padding: 0 0 .5em !important; display: -moz-inline-stack !important; display: inline-block !important; vertical-align: top !important; zoom: 1 !important; *display: inline !important; margin-right: 10px;}
+	.mad-lips input {font: inherit !important; background: transparent; border: none !important; border-bottom: 1px solid #6c6f70 !important; outline: 0 !important; display: block !important;}
+		.mad-lips label span {background: none !important; font-size: .8em !important; line-height: 1em !important; opacity: .7 !important; filter: alpha(opacity = 70) !important;}
+
+
+#base form input[type="text"], #base form input, #base form textarea {padding: 0 5px !important;}
